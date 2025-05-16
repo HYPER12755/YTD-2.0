@@ -31,6 +31,8 @@ cd Termux-YTD2.0
 ```
 bash install.sh
 ```
+### script.if you want to download in maximum quality 
+
 ```
 mkdir -p /storage/emulated/0/Youtube && mkdir -p $HOME/bin && echo 'yt-dlp -N 8 --no-part --continue -f "bv*+ba/b" --merge-output-format mp4 -o "/storage/emulated/0/Youtube/%(title)s.%(ext)s" "$1"' > $HOME/bin/termux-url-opener && chmod +x $HOME/bin/termux-url-opener
 ```
