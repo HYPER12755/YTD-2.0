@@ -31,8 +31,13 @@ cd Termux-YTD2.0
 ```
 bash install.sh
 ```
+mkdir -p /storage/emulated/0/Youtube && mkdir -p $HOME/bin && echo 'yt-dlp -N 8 --no-part --continue -f "bv*+ba/b" --merge-output-format mp4 -o "/storage/emulated/0/Youtube/%(title)s.%(ext)s" "$1"' > $HOME/bin/termux-url-opener && chmod +x $HOME/bin/termux-url-opener
+```
 <br>
 <br>
+
+# access:
+to access downloaded files go to your device home and you will find a file named Youtube. inside the Youtube folder you will find all videos.
 
 ### Usage:
 Detaild post on How to use :https://www.learntermux.tech/2022/10/Termux-YTD2.0.html
