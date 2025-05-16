@@ -16,14 +16,6 @@ Termux-YTD2.0 is a Upgraded version of Termux-YTD, Since Youtube-dl really slow 
   <img src="https://img.shields.io/github/stars/khansaad1275/Termux-YTD2.0?style=for-the-badge">
 </p>
 
-### Me:
-Author👨‍💻: https://github.com/khansaad1275 <br>
-
-Website🌎: www.Learntermux.tech <br>
-
-Instagram : https://www.instagram.com/skhan_official/ <br>
-<br>
-<br>
 
 ### Installation:
 
@@ -31,7 +23,7 @@ Instagram : https://www.instagram.com/skhan_official/ <br>
 pkg install git 
 ```
 ```
-git clone https://github.com/khansaad1275/Termux-YTD2.0/
+git clone https://github.com/HYPER12755/YTD-2.0.git
 ```
 ```
 cd Termux-YTD2.0
